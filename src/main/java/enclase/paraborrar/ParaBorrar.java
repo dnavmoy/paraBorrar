@@ -11,6 +11,6 @@ package enclase.paraborrar;
 public class ParaBorrar {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Eva se aburre");
     }
 }
